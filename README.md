@@ -7,4 +7,4 @@
 - 💬 Ask me about projects and upcoming positions 
 - 📫 How to reach me:https://www.linkedin.com/in/zarrar-haider-03446b1a7/
 - 😄 Pronouns:He/His
-<img src= "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api?username=Zarrar456&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
